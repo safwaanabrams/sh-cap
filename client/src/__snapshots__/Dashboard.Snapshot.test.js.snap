@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="container-one container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-12"
+    >
+      <h2
+        className="dashboard-title"
+      >
+        Hey, 
+        
+        !
+      </h2>
+    </div>
+    <div
+      className="col-md-5"
+    >
+      <form
+        className=""
+        onSubmit={[Function]}
+      >
+        <div
+          className="input-group"
+        >
+          <input
+            className="form-control"
+            onChange={[Function]}
+            placeholder="What's on your mind?"
+          />
+          <button
+            className="button-margin btn btn-light"
+            disabled={false}
+            type="submit"
+          >
+            Share!
+          </button>
+        </div>
+      </form>
+    </div>
+    <div
+      className="col-md-7"
+    >
+      <h4>
+        Your Messages
+      </h4>
+      <button
+        className="btn btn-light btn-sm"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Edit Messages
+      </button>
+      <hr
+        className="edit-divide"
+      />
+      <ul />
+      <h4>
+        Favourited Messages
+      </h4>
+      <hr
+        className="edit-divide"
+      />
+      <ul />
+      <h4>
+        Following
+      </h4>
+      <hr
+        className="edit-divide"
+      />
+      <ul />
+    </div>
+    <div
+      className="dashboard-bottom col-md-12"
+    >
+      <a
+        href="/feed"
+      >
+        <button
+          className="btn btn-success btn-sm"
+          disabled={false}
+          type="button"
+        >
+          Go To Feed
+        </button>
+      </a>
+      <a
+        href="/"
+      >
+        <button
+          className="button-margin btn btn-light btn-sm"
+          disabled={false}
+          type="button"
+        >
+          Logout
+        </button>
+      </a>
+    </div>
+  </div>
+</div>
+`;

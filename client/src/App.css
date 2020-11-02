@@ -1,0 +1,240 @@
+.social-float-facebook {
+  float: right;
+  color: rgb(226, 94, 94);
+  opacity: 80%;
+  font-weight: bold;
+  margin-top: 0;
+  margin-right: 3%;
+}
+
+.social-float-google {
+  float: right;
+  color: rgb(173, 58, 58);
+  opacity: 80%;
+  font-weight: bold;
+  margin-top: 0;
+  margin-right: 14%;
+}
+
+.con {
+  padding-top: 4%;
+  padding-left: 4%;
+}
+
+input {
+  display: block;
+  margin-top: 0.3%;
+  font-size: 1rem;
+}
+
+button {
+  cursor: pointer;
+}
+
+.social-right {
+  float: right;
+}
+
+.social-box {
+  margin-top: 2%;
+}
+
+.left {
+  margin-left: 0.5%;
+}
+
+.social:hover {
+  opacity: 80%;
+}
+
+hr {
+  width: 90%;
+  border-top: solid 1px rgb(228, 130, 130);
+}
+
+h2 {
+  padding-bottom: 2%;
+  padding-left: 1%;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 15%;
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+
+.brand-title {
+  text-shadow: 3px 3px rgb(163, 98, 107);
+}
+
+.loginsignup {
+  text-align: center;
+}
+
+.signup {
+  text-align: center;
+}
+
+.signup-form {
+  margin: auto;
+  padding: 50%;
+}
+
+.login-button-home {
+  margin-left: 1%;
+}
+
+.signup-button {
+  margin-top: 2%;
+}
+
+.signup-title {
+  padding-top: 10%;
+  padding-bottom: 1%;
+}
+
+.social-signup {
+  margin-left: 46.2%;
+}
+
+.facebook-logo {
+  margin-left: 3%;
+}
+
+.google-logo:hover {
+  transform: scale(1.05);
+  opacity: 80%;
+}
+
+.facebook-logo:hover {
+  transform: scale(1.05);
+  opacity: 80%;
+}
+
+.signup-hr {
+  width: 20%;
+}
+
+h4 {
+  text-align: center;
+}
+
+.form-control {
+  border-color: lightgray;
+}
+
+.input-group {
+  width: 80%;
+  margin-top: 5%;
+}
+
+.input {
+  margin-left: 42%;
+  border: solid 1px rgb(199, 106, 106);
+}
+
+.button-margin {
+  margin-left: 1%;
+}
+
+label {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.editInt {
+  height: 10rem;
+}
+
+.dashboard-title {
+  margin-top: 3%;
+}
+
+.edit-divide {
+  width: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+.message-div {
+  width: 30%;
+}
+
+.delete-btn {
+  margin: 2% 0 3% 0;
+}
+
+.delete-btn-edit {
+  margin: 2% 0 2% 0;
+}
+
+.save-float {
+  float: right;
+  margin-right: 36%;
+}
+
+.edit-input {
+  display: inline-block;
+  width: 45%;
+  padding: 0;
+  margin-top: 0.1995%;
+  border: solid 1px lightgray;
+}
+
+.col-md-5 {
+  border: solid 1px rgb(202, 143, 143);
+  border-radius: 1%;
+  box-shadow: 3px 2px 4px rgb(153, 109, 109);
+}
+
+.card {
+  border: solid 1px lightgray;
+  box-shadow: 4px 3px 6px rgb(165, 111, 111);
+  background-image: linear-gradient(rgb(109, 88, 88), lightcyan);
+}
+
+.dashboard-bottom {
+  padding: 2% 0;
+}
+
+.follow-div {
+  margin-top: 2%;
+}
+
+.feed-button {
+  margin-left: 2%;
+}
+
+.user-card {
+  margin-bottom: 2%;
+}
+
+.user-accounts {
+  display: inline-block;
+  margin-top: 2%;
+  width: 100%;
+}
+
+.user-delete {
+  float: right;
+}
+
+.hr-user {
+  width: 100%;
+}
+
+.admin-btn {
+  margin-left: 2%;
+}
+
+.container-one {
+  border: solid 1px lightgray;
+  box-shadow: 4px 3px 6px rgb(221, 143, 143);
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding-left: 2%;
+  border-radius: 1%;
+}
